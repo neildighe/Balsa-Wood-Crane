@@ -51,7 +51,7 @@ For joining all the pieces together, I felt that using super glue was the only w
 
 ![image](https://user-images.githubusercontent.com/72219191/132448699-fa0a9717-dad9-4f53-87aa-c8f0bbefdc17.png)
        
-# Conclusion/Changes I would Make
+# Conclusion
 ![image](https://user-images.githubusercontent.com/72219191/132448709-21d620e7-c05c-45d4-950c-9d968bde6509.png)
 
 I think that this design worked amazingly well. I was very economical with my use of balsa wood, with only 3 centimeters worth being left over. As well I put trust into both the balsa wood and the superglue, and I was not disappointed. It held the 300g weight very easily. It was a little wobbly, but I was able to easily support the weight once it was placed carefully. The fact that only one other person in the class of 20 supported the full 300g means that I did something right. If I had more wood, I would definitely add more bracing, but with the amount I was given I feel that I used the correct amount of wood I the right locations. If I had to do the project again, I think that I would bring superglue accelerant. That would have allowed me to build faster and with less mess. 
